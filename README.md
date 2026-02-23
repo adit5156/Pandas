@@ -286,7 +286,7 @@ After completing this module, you will be able to:
 # 📂 Repository Structure
 
 ```
-03_Pandas.ipynb
+Pandas.ipynb
 README.md
 ```
 
